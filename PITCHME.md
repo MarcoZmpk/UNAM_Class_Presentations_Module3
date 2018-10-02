@@ -52,6 +52,39 @@ Traditional Software Phases
 ![Cost of late correction](https://image.slidesharecdn.com/poorbusinessanalysis-v-2-140110041144-phpapp02/95/poor-business-analysis-the-culprit-of-it-project-failure-23-638.jpg?cb=1389327319)
 
 ---
+##### Requirements Engineering
+
+- Requirements Elicitation |
+- Requirements Analysis |
+- Requirements Specification |
+- Requirements Validation |
+- Requirements Managements |
+
+---
+##### Software Process Model
+
+![Software Process Model](https://i.ytimg.com/vi/laSrDtYtkXU/maxresdefault.jpg)
+
+---
+###### Waterfall
+
+![Waterfall](https://xbsoftware.com/wp-content/uploads/2014/10/software-development-life-cycle.png)
+
+@color[green](OK) Find errors early
+@color[red](NOK) Not Flexible
+---
+###### Spiral
+
+![Spiral](https://i.stack.imgur.com/7VrIo.jpg)
+
+@color[green](OK) Risk reduction
+@color[green](OK) Functionality can be added
+@color[green](OK) Software produced early
+
+@color[red](NOK) Specific Expertise
+@color[red](NOK) Highly dependent on risk analysis
+
+---
 
 #### Diseño y modelado de sistemas, utilizando el Lenguaje de Modelado Unificado (UML)
 
