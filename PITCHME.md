@@ -26,6 +26,16 @@ Contenido:
 - 3.5  Verificación, validación y pruebas del software |
 - 3.6  Mantenimiento del software (depuración, actualización, evolución)|
 ---
+#### Análisis y definición de los requerimientos del usuario y del sistema
+
+Traditional Software Phases
+
+- Requirements Engineering |
+- Design |
+- Implementation |
+- Maintenance |
+- Verification and Validation |
+
 ---
 ##### Software Process Model
 
@@ -36,8 +46,8 @@ Contenido:
 
 ![Waterfall](https://xbsoftware.com/wp-content/uploads/2014/10/software-development-life-cycle.png)
 
-@color[green](OK) Find errors early |
-@color[red](NOK) Not Flexible |
+* @color[green](OK) Find errors early |
+* @color[red](NOK) Not Flexible |
 ---
 ###### Spiral
 
@@ -46,21 +56,21 @@ Contenido:
 ---
 ###### Spiral
 
-@color[green](OK) Risk reduction |
-@color[green](OK) Functionality can be added |
-@color[green](OK) Software produced early |
+* @color[green](OK) Risk reduction |
+* @color[green](OK) Functionality can be added |
+* @color[green](OK) Software produced early |
 
-@color[red](NOK) Specific Expertise |
-@color[red](NOK) Highly dependent on risk analysis |
-@color[red](NOK) Complex and costly to implement |
+* @color[red](NOK) Specific Expertise |
+* @color[red](NOK) Highly dependent on risk analysis |
+* @color[red](NOK) Complex and costly to implement |
 ---
 ###### Evolutionary Prototyping
 ![Evolutionary Prototyping](http://1.bp.blogspot.com/U8_T_U3y_AM7YhjqxiabX7ag0W8ES5ZYMiWbO1dfbfc=w451-h237-no)
 
-@color[green](OK) Inmediate feedback |
+* @color[green](OK) Inmediate feedback |
 
-@color[red](NOK) Difficult to plan |
-@color[red](NOK) Not a high quality product |
+* @color[red](NOK) Difficult to plan |
+* @color[red](NOK) Not a high quality product |
 ---
 ###### Agile Methodology
 
@@ -70,16 +80,6 @@ Contenido:
 ###### Choosing a software process model
 
 ![Choosing a software process model](https://i.ytimg.com/vi/F5fuUs7oJu0/maxresdefault.jpg)
----
-#### Análisis y definición de los requerimientos del usuario y del sistema
-
-Traditional Software Phases
-
-- Requirements Engineering |
-- Design |
-- Implementation |
-- Maintenance |
-- Verification and Validation |
 
 ---
 ##### Requirements Engineering
