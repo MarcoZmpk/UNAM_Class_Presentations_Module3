@@ -21,9 +21,9 @@ Objetivo: El alumno desarrollará programas y sistemas de cómputo mediante el p
 Contenido: 
 - 3.1  Análisis y definición de los requerimientos del usuario y del sistema |
 - 3.2  Diseño y modelado de sistemas, utilizando el Lenguaje de Modelado Unificado (UML) |
-- 3.3  Desarrollo de los subsistemas. 
+- 3.3  Desarrollo de los subsistemas |
 - 3.4  Integración del sistema |
-- 3.5  Verificación, validación y pruebas del software.  |
+- 3.5  Verificación, validación y pruebas del software |
 - 3.6  Mantenimiento del software (depuración, actualización, evolución)|
 
 ---
@@ -49,7 +49,7 @@ Traditional Software Phases
 ---
 ##### Requirements Engineering
 
-![Cost of late correction](https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjQkIjM8ubdAhUBW60KHafyB-QQjRx6BAgBEAU&url=https%3A%2F%2Fslideplayer.com%2Fslide%2F10760810%2F&psig=AOvVaw0eJ-oXFQVZybq41EHBnzbd&ust=1538534775523591)
+![Cost of late correction](https://image.slidesharecdn.com/poorbusinessanalysis-v-2-140110041144-phpapp02/95/poor-business-analysis-the-culprit-of-it-project-failure-23-638.jpg?cb=1389327319)
 
 ---
 
