@@ -25,16 +25,51 @@ Contenido:
 - 3.4  Integración del sistema |
 - 3.5  Verificación, validación y pruebas del software |
 - 3.6  Mantenimiento del software (depuración, actualización, evolución)|
+---
+---
+##### Software Process Model
+
+![Software Process Model](https://i.ytimg.com/vi/laSrDtYtkXU/maxresdefault.jpg)
 
 ---
-### Questions?
+###### Waterfall
 
-<br>
+![Waterfall](https://xbsoftware.com/wp-content/uploads/2014/10/software-development-life-cycle.png)
 
-@fa[envelope gp-contact](zmpk.fi@gmail.com)
+@color[green](OK) Find errors early |
+@color[red](NOK) Not Flexible |
+---
+###### Spiral
 
-@fa[github gp-contact](MarcoZmpk)
+![Spiral](https://i.stack.imgur.com/7VrIo.jpg)
 
+---
+###### Spiral
+
+@color[green](OK) Risk reduction |
+@color[green](OK) Functionality can be added |
+@color[green](OK) Software produced early |
+
+@color[red](NOK) Specific Expertise |
+@color[red](NOK) Highly dependent on risk analysis |
+@color[red](NOK) Complex and costly to implement |
+---
+###### Evolutionary Prototyping
+![Evolutionary Prototyping](http://1.bp.blogspot.com/U8_T_U3y_AM7YhjqxiabX7ag0W8ES5ZYMiWbO1dfbfc=w451-h237-no)
+
+@color[green](OK) Inmediate feedback |
+
+@color[red](NOK) Difficult to plan |
+@color[red](NOK) Not a high quality product |
+---
+###### Agile Methodology
+
+![Agile Methodology](https://blog.trigent.com/wp-content/uploads/2016/06/roleofqa01.jpg)
+
+---
+###### Choosing a software process model
+
+![Choosing a software process model](https://i.ytimg.com/vi/F5fuUs7oJu0/maxresdefault.jpg)
 ---
 #### Análisis y definición de los requerimientos del usuario y del sistema
 
@@ -52,40 +87,24 @@ Traditional Software Phases
 ![Cost of late correction](https://image.slidesharecdn.com/poorbusinessanalysis-v-2-140110041144-phpapp02/95/poor-business-analysis-the-culprit-of-it-project-failure-23-638.jpg?cb=1389327319)
 
 ---
-##### Requirements Engineering
+##### [Requirements Engineering](https://en.wikipedia.org/wiki/Requirements_engineering)
 
 - Requirements Elicitation |
 - Requirements Analysis |
+- System modeling |
 - Requirements Specification |
 - Requirements Validation |
 - Requirements Managements |
 
 ---
-##### Software Process Model
+### Questions?
 
-![Software Process Model](https://i.ytimg.com/vi/laSrDtYtkXU/maxresdefault.jpg)
+<br>
 
+@fa[envelope gp-contact](zmpk.fi@gmail.com)
+
+@fa[github gp-contact](MarcoZmpk)
 ---
-###### Waterfall
-
-![Waterfall](https://xbsoftware.com/wp-content/uploads/2014/10/software-development-life-cycle.png)
-
-@color[green](OK) Find errors early
-@color[red](NOK) Not Flexible
----
-###### Spiral
-
-![Spiral](https://i.stack.imgur.com/7VrIo.jpg)
-
-@color[green](OK) Risk reduction
-@color[green](OK) Functionality can be added
-@color[green](OK) Software produced early
-
-@color[red](NOK) Specific Expertise
-@color[red](NOK) Highly dependent on risk analysis
-
----
-
 #### Diseño y modelado de sistemas, utilizando el Lenguaje de Modelado Unificado (UML)
 
 ---
