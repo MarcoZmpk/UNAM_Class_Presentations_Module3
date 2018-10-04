@@ -17,7 +17,6 @@
 
 Objetivo: El alumno desarrollará programas y sistemas de cómputo mediante el paradigma orientado a objetos.
 ---
-
 Contenido: 
 - 3.1  Análisis y definición de los requerimientos del usuario y del sistema |
 - 3.2  Diseño y modelado de sistemas, utilizando el Lenguaje de Modelado Unificado (UML) |
@@ -74,7 +73,7 @@ Traditional Software Phases
 ---
 ###### Agile Methodology
 
-![Agile Methodology](https://blog.trigent.com/wp-content/uploads/2016/06/roleofqa01.jpg)
+![Agile Methodology](https://www.360logica.com/blog/wp-content/uploads/2016/07/AGILE-Graphic01.jpg)
 
 ---
 ###### Choosing a software process model
@@ -97,6 +96,109 @@ Traditional Software Phases
 - Requirements Managements |
 
 ---
+#### [Diseño y modelado de sistemas, utilizando el Lenguaje de Modelado Unificado (UML)](http://www.uml.org/what-is-uml.htm)
+
+Large enterprise applications - the ones that execute core business applications, and keep a company going - must be more than just a bunch of code modules. They must be structured in a way that enables scalability, security, and robust execution under stressful conditions, and their structure - frequently referred to as their architecture - must be defined clearly enough that maintenance programmers can (quickly!) find and fix a bug that shows up long after the original authors have moved on to other projects.
+
+---
+##### UML - Unified Modeling Language
+
+UML is a modern approach to modeling and documenting software. In fact, it’s one of the most popular business process modeling techniques.
+
+---
+##### [UML - Architecture](https://www.tutorialspoint.com/uml/uml_architecture.htm)
+
+Any real-world system is used by different users. The users can be developers, testers, business people, analysts, and many more. Hence, before designing a system, the architecture is made with different perspectives in mind. The most important part is to visualize the system from the perspective of different viewers. The better we understand the better we can build the system.
+---
+##### [UML - Structural Modeling](https://www.tutorialspoint.com/uml/uml_modeling_types.htm)
+
+Structural modeling captures the static features of a system. They consist of the following −
+
+* Classes diagrams
+* Deployment diagrams
+* Package diagrams
+* Composite structure diagram
+* Component diagram
+---
+##### [UML - Behavioral Modeling](https://www.tutorialspoint.com/uml/uml_modeling_types.htm)
+
+Behavioral model describes the interaction in the system. It represents the interaction among the structural diagrams. Behavioral modeling shows the dynamic nature of the system. They consist of the following −
+
+* Activity diagrams
+* Interaction diagrams
+* Use case diagrams
+
+---
+##### [UML - Architectural Modeling](https://www.tutorialspoint.com/uml/uml_modeling_types.htm)
+
+Architectural model represents the overall framework of the system. It contains both structural and behavioral elements of the system. Architectural model can be defined as the blueprint of the entire system. Package diagram comes under architectural modeling.
+
+---
+##### [UML - Basic Notations](https://www.tutorialspoint.com/uml/uml_basic_notations.htm)
+
+Class Notation
+
+![Class Notation](https://www.tutorialspoint.com/uml/images/notation_class.jpg)
+
+---
+##### [UML - Basic Notations](https://www.tutorialspoint.com/uml/uml_basic_notations.htm)
+
+Object Notation
+
+![Object Notation](https://www.tutorialspoint.com/uml/images/notation_object.jpg)
+
+---
+##### [UML - Basic Notations](https://www.tutorialspoint.com/uml/uml_basic_notations.htm)
+
+Use Case Notation
+
+![Use Case Notation](https://www.tutorialspoint.com/uml/images/notation_usecase.jpg)
+
+---
+##### [UML - Basic Notations](https://www.tutorialspoint.com/uml/uml_basic_notations.htm)
+
+Actor Notation
+
+![Actor Notation](https://www.tutorialspoint.com/uml/images/notation_actor.jpg)
+
+---
+##### [UML - Basic Notations](https://www.tutorialspoint.com/uml/uml_basic_notations.htm)
+
+Interaction Notation
+
+![Interaction Notation](https://www.tutorialspoint.com/uml/images/notation_interaction.jpg)
+
+---
+##### [UML - Basic Notations](https://www.tutorialspoint.com/uml/uml_basic_notations.htm)
+
+State Machine Notation
+
+![State Machine Notation](https://www.tutorialspoint.com/uml/images/notation_statemachine.jpg)
+
+---
+##### [UML - Basic Notations](https://www.tutorialspoint.com/uml/uml_basic_notations.htm)
+
+Dependency Notation
+
+![Dependency Notation](https://www.tutorialspoint.com/uml/images/notation_dependency.jpg)
+
+---
+##### [UML - Basic Notations](https://www.tutorialspoint.com/uml/uml_basic_notations.htm)
+
+Association Notation
+
+![Association Notation](https://www.tutorialspoint.com/uml/images/notation_association.jpg)
+
+---
+##### [UML - Basic Notations](https://www.tutorialspoint.com/uml/uml_basic_notations.htm)
+
+Generalization Notation
+
+![Generalization Notation](https://www.tutorialspoint.com/uml/images/notation_generalization.jpg)
+
+---
+
+---
 ### Questions?
 
 <br>
@@ -104,9 +206,6 @@ Traditional Software Phases
 @fa[envelope gp-contact](zmpk.fi@gmail.com)
 
 @fa[github gp-contact](MarcoZmpk)
----
-#### Diseño y modelado de sistemas, utilizando el Lenguaje de Modelado Unificado (UML)
-
 ---
 
 ### 4. Concepto, uso y aplicaciones de las estructuras de datos compuestas
