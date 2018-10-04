@@ -197,6 +197,16 @@ Generalization Notation
 ![Generalization Notation](https://www.tutorialspoint.com/uml/images/notation_generalization.jpg)
 
 ---
+##### [UML - Diagram Examples]
+
+[Class Diagram](https://www.tutorialspoint.com/uml/uml_class_diagram.htm)
+[Object Diagram](https://www.tutorialspoint.com/uml/uml_object_diagram.htm)
+[Component Diagram](https://www.tutorialspoint.com/uml/uml_component_diagram.htm)
+[Deployment Diagram](https://www.tutorialspoint.com/uml/uml_deployment_diagram.htm)
+[Use Case Diagram](https://www.tutorialspoint.com/uml/uml_use_case_diagram.htm)
+[Interaction Diagram](https://www.tutorialspoint.com/uml/uml_interaction_diagram.htm)
+[State Chart Diagram](https://www.tutorialspoint.com/uml/uml_statechart_diagram.htm)
+[Activity Diagram](https://www.tutorialspoint.com/uml/uml_activity_diagram.htm)
 
 ---
 ### Questions?
